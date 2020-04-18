@@ -54,10 +54,6 @@
 #define OPTIMIZE_SDCARD_HARDWARE_SPI
 //#define SDCARD_DRIVER_DEBUG
 
-#define BOARD_ID "ATmega32u4"
-#define VOLUME_LABEL "GeigerPhone"
-#define INDEX_URL "https://pxt.io"
-
 /* Non-USB Related Configuration Tokens: */
 //		#define DISABLE_TERMINAL_CODES
 
